@@ -14,7 +14,7 @@
 
 ## 🏆 Coding Profiles  
 <p align="center">
-  <a href="https://leetcode.com/rust_bucket">
+  <a href="https://leetcode.com/de_queue">
     <img src="https://img.shields.io/badge/LEETCODE-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   &nbsp;&nbsp;&nbsp;
