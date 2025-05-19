@@ -5,8 +5,8 @@
 </p>
 
 ## 🚀 About Me  
-- 🎓 **Pre-final year B.Tech CSE undergraduate** at **NIT Raipur**
-- 💻 **Frontend Developer**
+- 🎓 **Final year B.Tech CSE undergraduate** at **NIT Raipur**
+- 💻 **FullStack Developer**
 - ⚡ **Love Solving Challenging Problems**
 - 🔥 Passionate about **Creating both useful and visually appealing applications**
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔥 Projects  
+## 🔥 Projects 
 - 🗨 **Created a WorldAtlas website that fetches and displays country data with an intuitive, visually appealing design**  
 - ✈ **Space-X clone** - A responsive frontend clone of the SpaceX website.  
 
